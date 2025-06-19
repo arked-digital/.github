@@ -1,4 +1,4 @@
-#Arked Digital
+# Arked Digital
 
 The goal of this organisation is to power the [India Stack](https://indiastack.org/index.html) through open source projects. The current targets are
 1. ABDM (Ayushman Bharat Digital Mission)
